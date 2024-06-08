@@ -1,6 +1,6 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
-![AI-Resume-Screening](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=6th%20Sem%20Project%20at%20PSIT%20College%20(2023%20-%2024)&font=Raleway&language=1&pattern=Plus&theme=Light)
+![AI-Resume-Screening](https://socialify.git.ci/deepakpadhi986/AI-Resume-Screening/image?description=1&descriptionEditable=6th%20Sem%20Project%20at%20PSIT%20College%20(2023%20-%2024)&font=Raleway&language=1&pattern=Plus&theme=Light)
 
 <div align="center">
   <h1>🌴 AI RESUME SCREENING 🌴</h1>
@@ -179,4 +179,4 @@ If ``GeocoderUnavailable`` error comes up then just check your internet connecti
 * [x] Fetch more details from users resume.
 * [ ] View individual user details.
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Anubhav Jaiwal</a>
+### Built with 🤍 AI RESUME SCREENING by <a href="https://dnoobnerd.netlify.app/">Anubhav Jaiwal</a>
