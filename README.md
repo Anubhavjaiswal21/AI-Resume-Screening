@@ -3,13 +3,14 @@
 ![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=6th%20Sem%20Project%20at%20PSIT%20College%20(2023%20-%2024)&font=Raleway&language=1&pattern=Plus&theme=Light)
 
 <div align="center">
-  <h1>🌴 AI RESUME ANALYZER 🌴</h1>
+  <h1>🌴 AI RESUME SCREENING 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
+</div><br/><br/>
   
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://raw.githubusercontent.com/AnubhavJaiswal/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
+    <br/><br/>
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
