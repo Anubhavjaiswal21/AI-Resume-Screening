@@ -146,8 +146,8 @@ python -m spacy download en_core_web_sm
 
 After installation is finished create a Database ```cv```
 
-And change user credentials inside ```App.py```
-https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
+And change user credentials inside ```App.py``` at line #95
+
 
 Go to ```venvapp\Lib\site-packages\pyresparser``` folder
 
@@ -179,4 +179,4 @@ If ``GeocoderUnavailable`` error comes up then just check your internet connecti
 * [x] Fetch more details from users resume.
 * [ ] View individual user details.
 
-### Built with 🤍 AI RESUME SCREENING by <a href="https://dnoobnerd.netlify.app/">Anubhav Jaiwal</a>
+### Built with 🤍 AI RESUME SCREENING by <a href="https://dnoobnerd.netlify.app/">Anubhav Jaiswal</a>
